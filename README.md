@@ -6,7 +6,8 @@
 
 
 NOW MAINTAINED BY GRAGOGRAG
-=============
+============================
+
 
 EN
 
@@ -16,7 +17,9 @@ SETUP: download release file (.zip file), then install plugin via Kodi interface
 
 Origial readme by AUTHOR: ro-le
 
-=============
+=======================================
+
+
 
 SI
 
@@ -26,4 +29,6 @@ NAMESTITEV: prenesi arhivsko datoteko poljubne različice (.zip file), nato name
 
 Originalen readme od AVTOR: ro-le
 
-=============
+=======================================
+
+
